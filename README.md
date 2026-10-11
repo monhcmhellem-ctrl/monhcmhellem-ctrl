@@ -23,109 +23,146 @@ Atualmente, direciono meus estudos e projetos para **Análise de Dados, Engenhar
 - 📋 Gestão de Projetos e Processos
 - ☁️ Azure e soluções de dados em nuvem
 
----
-
-### 🛠️ Tecnologias e ferramentas
-
-**Dados, programação e bancos de dados**
-
-\<p>
-&#x20; \<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg)" width="40" alt="Python" title="Python"/>
-&#x20; \<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg)" width="40" alt="Pandas" title="Pandas"/>
-&#x20; \<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg)" width="40" alt="PostgreSQL" title="PostgreSQL"/>
-&#x20; \<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg)" width="40" alt="SQL Server" title="SQL Server"/>
-&#x20; \<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg)" width="40" alt="Microsoft Azure" title="Microsoft Azure"/>
-&#x20; \<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg)" width="40" alt="Git" title="Git"/>
-&#x20; \<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg)" width="40" alt="GitHub" title="GitHub"/>
-\</p>
-
-**Business Intelligence e produtividade**
-
-- Power BI — dashboards, indicadores e análise de desempenho.
-- Microsoft Excel — análise de dados e relatórios gerenciais.
-- Power Query — preparação e transformação de dados.
-- SQL — consultas, análise e extração de informações.
-- Python e Pandas — tratamento, organização e automação de dados.
-- PostgreSQL — armazenamento e estruturação de dados.
-- Azure — interesse e desenvolvimento de projetos com tecnologias em nuvem.
+  **Transformando dados em decisões, processos em eficiência e projetos em resultados.** 🚀
 
 ---
+ ### 🤖 Linguagens e Tecnologias
 
-### 🚀 Projetos em destaque
+<img 
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="CSS" 
+    title="CSS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="JavaScript" 
+    title="JavaScript"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="TypeScript"
+    title="TypeScript" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="React"
+    title="React" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Next.js" 
+    title="Next.js"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Bootstrap"
+    title="Bootstrap" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Tailwind" 
+    title="Tailwind"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="SASS" 
+    title="SASS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="PHP" 
+    title="PHP"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Laravel" 
+    title="Laravel"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="JQuery" 
+    title="JQuery"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Git" 
+    title="Git"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
 
-#### ⚡ RADAR ENERGIA
+<br/>
+<br/>
 
-Projeto de portfólio voltado à análise de desempenho operacional, com indicadores de backlog, SLA, reincidência e melhoria contínua.
+### 📊 Estatísticas
 
-**Tecnologias:** Python, Pandas, SQL e Power BI.
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=monhcmhellem-ctrl&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
 
-#### 📊 PERFORMANCE COMERCIAL
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=monhcmhellem-ctrl&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
 
-Projeto de análise de desempenho comercial, com foco na organização de indicadores, acompanhamento de resultados e suporte à tomada de decisão.
+</p>
 
-**Tecnologias:** Business Intelligence, análise de dados e dashboards.
 
-#### 💧 SANEAMENTO 360 BI
 
-Projeto em desenvolvimento para análise de indicadores de saneamento, considerando os estados do Pará e Amapá, com possibilidade de comparação regional e nacional.
-
-**Tecnologias planejadas:** Python, PostgreSQL e Power BI, com cargas agendadas, logs e atualização automatizada.
-
-> Consulte os repositórios para acompanhar a evolução dos projetos e conhecer suas implementações.
-
----
-
-### 💼 Experiência profissional
-
-Minha trajetória profissional combina gestão operacional, qualidade, projetos, infraestrutura e análise de indicadores.
-
-- **Grupo GPS** — experiência em supervisão de qualidade, projetos e infraestrutura, melhoria contínua, gestão de equipes e acompanhamento de indicadores operacionais.
-- **Claro Brasil** — experiência em operações comerciais, suporte aos canais de lojas próprias, controles administrativos e acompanhamento de desempenho comercial.
-- **EQS Engenharia** — experiência em operações administrativas e gestão de contratos.
-- **Perto S.A.** — experiência em operações administrativas, suprimentos e logística.
-
-Ao longo da minha trajetória, desenvolvi uma visão integrada entre processos, tecnologia, indicadores e resultados, buscando oportunidades de simplificar rotinas, melhorar a eficiência operacional e apoiar decisões baseadas em dados.
-
----
-
-### 🎓 Formação e certificações
-
-- Bacharelado em Administração.
-- Pós-graduação em Gestão de Pessoas.
-- MBA em Gestão de Projetos.
-- MBA em Business Intelligence.
-- Lean Six Sigma Black Belt.
-- Lean Six Sigma Green Belt.
-- Microsoft Excel Pro para Análise de Dados.
-
----
-
-### 📊 Estatísticas do GitHub
-
-\<p>
-&#x20; \<img
-&#x20;   height="180"
-&#x20;   src="[https://github-readme-stats.vercel.app/api?username=monhcmhellem-ctrl&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br](https://github-readme-stats.vercel.app/api?username=monhcmhellem-ctrl\&show_icons=true\&theme=tokyonight\&include_all_commits=true\&locale=pt-br)"
-&#x20;   alt="Estatísticas do GitHub"
-&#x20; />
-&#x20; \<img
-&#x20;   height="180"
-&#x20;   src="[https://github-readme-stats.vercel.app/api/top-langs/?username=monhcmhellem-ctrl&theme=tokyonight&layout=compact&langs_count=8&locale=pt-br](https://github-readme-stats.vercel.app/api/top-langs/?username=monhcmhellem-ctrl\&theme=tokyonight\&layout=compact\&langs_count=8\&locale=pt-br)"
-&#x20;   alt="Linguagens mais utilizadas"
-&#x20; />
-\</p>
-
----
-
-### 📫 Vamos nos conectar?
-
-\<p>
-&#x20; \<a href="[https://www.linkedin.com/](https://www.linkedin.com/)" target="\_blank">
-&#x20;   \<img src="[https://img.shields.io/badge/LinkedIn-Conecte--se-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/LinkedIn-Conecte--se-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)" alt="LinkedIn"/>
-&#x20; \</a>
-&#x20; \<a href="[https://github.com/monhcmhellem-ctrl](https://github.com/monhcmhellem-ctrl)" target="\_blank">
-&#x20;   \<img src="[https://img.shields.io/badge/GitHub-Meus%20Projetos-181717?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/GitHub-Meus%20Projetos-181717?style=for-the-badge\&logo=github\&logoColor=white)" alt="GitHub"/>
-&#x20; \</a>
-\</p>
-
-**Transformando dados em decisões, processos em eficiência e projetos em resultados.** 🚀
