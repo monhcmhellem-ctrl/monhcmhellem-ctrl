@@ -154,13 +154,10 @@ Atualmente, direciono meus estudos e projetos para **Análise de Dados, Engenhar
     src="https://github-stats-extended.vercel.app/api?username=monhcmhellem-ctrl&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
   />
   
-
   <img
     alt="Tecnologias mais utilizadas"
     height="200"
     src="https://github-stats-extended.vercel.app/api/top-langs/?username=monhcmhellem-ctrl&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
   />
 </p>
-
-
 
